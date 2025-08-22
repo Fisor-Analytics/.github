@@ -1,6 +1,6 @@
 # Fisor Analytics
 
-![Organization Banner](banner.png) <!-- Replace with your image path later -->
+![Organization Banner](fisor-banner.jpg) <!-- Replace with your image path later -->
 
 Welcome to the official GitHub organization of Fisor Analytics.  
 We are building the next generation of AI-powered analytics for small and mid-sized businesses.
