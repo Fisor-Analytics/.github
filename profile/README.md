@@ -7,16 +7,28 @@ We are building the next generation of AI-powered analytics for small and mid-si
 
 ---
 
-## What We Do
-Fisor Analytics combines:
-- Data Engineering — Apache Iceberg, Spark, and modern data pipelines
-- AI Reasoning — Large Language Models with practical guardrails
-- Actionable Dashboards — tailored insights for SMEs
+## What We’re Building  
 
-Our mission is to deliver enterprise-grade analytics without enterprise complexity or cost.
+- **Multi-Tenant Data Lakehouse** – Apache Iceberg + Spark pipelines  
+- **Insight Engines** – Modular AI workflows for forecasting & risk analysis  
+- **Secure Orchestration** – Go-based backend with Redis memory + PostgreSQL  
+- **Dashboard Platform** – React-based, SME-ready visualization layer  
 
 ---
 
+## Core Modules  
+
+Our system is composed of several key components (currently private repositories):  
+
+- **API Layer** – Orchestration API built in Go with PostgreSQL  
+- **Orchestrator** – Central workload manager for coordinating modules  
+- **Data Fetcher** – Public dataset ingestion and cloud storage pipelines  
+- **Data Retriever** – Spark-based query execution and ML pipelines  
+- **Frontend** – React-based dashboard for businesses  
+- **Radar Engine** – Economic forecasting and risk analysis  
+- **Builder Engine** – Iterative research and dataset generator  
+
+---
 ## Focus Areas
 - Predictive analytics for cash flow, inventory, and sales  
 - Scenario modeling with macroeconomic radar  
@@ -31,7 +43,7 @@ We aim to become the **Palantir of Canada** — making advanced data intelligenc
 ---
 
 ## Contact
-- Website: [fisoranalytics.com](https://fisoranalytics.org) *(coming soon)*  
+- Website: [fisoranalytics.com](https://fisoranalytics.org) 
 - Email: contact@fisoranalytics.org  
 - LinkedIn: [Linkedin Page](https://linkedin.com/company/fisor-analytics)  
 
