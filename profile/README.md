@@ -33,7 +33,7 @@ We aim to become the **Palantir of Canada** — making advanced data intelligenc
 ## Contact
 - Website: [fisoranalytics.com](https://fisoranalytics.org) *(coming soon)*  
 - Email: contact@fisoranalytics.org  
-- LinkedIn: [linkedin.com/company/fisor-analytics]([https://linkedin.com/company/fisor-analytics](https://linkedin.com/company/fisor-analytics))  
+- LinkedIn: [linkedin.com/company/fisor-analytics]((https://linkedin.com/company/fisor-analytics))  
 
 ---
 
