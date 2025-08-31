@@ -37,8 +37,19 @@ Our system is composed of several key components (currently private repositories
 
 ---
 
-## Vision
-We aim to become the **Palantir of Canada** — making advanced data intelligence accessible, affordable, and practical for SMEs.
+## Vision  
+
+At Fisor Analytics, our vision is to empower Canadian businesses with the same caliber of insights and tools typically reserved for large enterprises.  
+
+We believe that **mid-sized companies** (50–500 employees, $2M+ revenue) are the backbone of the economy, yet often lack access to advanced analytics due to high costs, technical barriers, and siloed data.  
+
+Our goal is to close that gap by delivering:  
+- **Enterprise-grade analytics at SME scale** – affordable, modular, and easy to adopt  
+- **Predictive intelligence, not just reporting** – turning raw data into actionable foresight  
+- **A trusted Canadian platform** – secure, privacy-focused, and built with local needs in mind  
+
+Ultimately, we aim to become the **“Palantir of Canada”**: a partner that enables organizations to see further, decide smarter, and grow sustainably.  
+
 
 ---
 
