@@ -29,11 +29,21 @@ Our system is composed of several key components (currently private repositories
 - **Builder Engine** – Iterative research and dataset generator  
 
 ---
-## Focus Areas
-- Predictive analytics for cash flow, inventory, and sales  
-- Scenario modeling with macroeconomic radar  
-- AI-assisted data research and insight building  
-- Secure, multi-tenant SaaS platform design  
+## Focus Areas  
+
+We are designing our analytics engines with the unique challenges of key Canadian industries in mind.  
+These modules are **currently under active development** and will be rolled out step by step.  
+
+- 🚚 **Logistics & Transportation** – route optimization, fuel cost forecasting, fleet performance  
+- 🏭 **Manufacturing & Supply Chain** – inventory risk detection, supplier benchmarking, production efficiency  
+- 🏢 **Commercial Real Estate** – occupancy forecasting, neighborhood growth analytics, asset valuation support  
+- 🏗️ **Construction & Infrastructure** – project cost forecasting, subcontractor performance, material price trends  
+- 💼 **Professional & B2B Services** – client retention analytics, sales ROI tracking, invoice delay detection  
+- ⚡ **Energy & Utilities** – demand forecasting, infrastructure planning, green energy transition analysis  
+
+> *Note: These focus areas represent our roadmap. The platform is still in development, and capabilities will expand with each release.*  
+ 
+
 
 ---
 
